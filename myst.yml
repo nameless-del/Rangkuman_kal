@@ -1,9 +1,7 @@
 project:
   title: Rangkuman KAL
-  # ... kode lainnya ...
 
 site:
   template: book-theme
-  # TAMBAHKAN BARIS DI BAWAH INI
   options:
     math: true
